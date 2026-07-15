@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "work\\hatch-pet\\wind-spirit-one-wing\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        543,
+        724
+      ],
+      "used_pixels": 42553,
+      "edge_pixels": 0,
+      "output": "work\\hatch-pet\\wind-spirit-one-wing\\decoded\\look-anchors-one-wing\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        543,
+        0,
+        1086,
+        724
+      ],
+      "used_pixels": 42455,
+      "edge_pixels": 0,
+      "output": "work\\hatch-pet\\wind-spirit-one-wing\\decoded\\look-anchors-one-wing\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1086,
+        0,
+        1629,
+        724
+      ],
+      "used_pixels": 44381,
+      "edge_pixels": 0,
+      "output": "work\\hatch-pet\\wind-spirit-one-wing\\decoded\\look-anchors-one-wing\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1629,
+        0,
+        2172,
+        724
+      ],
+      "used_pixels": 42565,
+      "edge_pixels": 0,
+      "output": "work\\hatch-pet\\wind-spirit-one-wing\\decoded\\look-anchors-one-wing\\270.png"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+visual_qa=pass
+qa_note=All 9 standard rows have correct frame counts and semantics, consistent identity, scale and baselines, exactly one attached three-feather wing on viewer-left, no image-right wing or stump, no arms or hands, and no clipping, text, detached effects, or missing frames.
+repair_rows=none
+repair_notes=none

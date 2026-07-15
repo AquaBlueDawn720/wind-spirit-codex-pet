@@ -1,0 +1,14 @@
+{
+  "accepted": true,
+  "severity": "minor",
+  "issue": "The blind majority classified the horizontal component of 337.5 degrees as ambiguous.",
+  "source_direction": "337.5",
+  "evidence": [
+    "Both hard cardinal blind gates passed with no ambiguity.",
+    "The vertical blind pair correctly classified 337.5 as up.",
+    "Independent labeled normal-size visual QA confirmed a subtle screen-left visor cue and no reversal in 315 -> 337.5 -> 000.",
+    "Continuity from 337.5 to 000 has a 2.1 pixel center delta and 1.01 area ratio, so there is no scale or registration pop.",
+    "Every frame still satisfies the one image-left wing and no-hands identity contract."
+  ],
+  "resolution": "Accepted as an intermediate-direction warning; no cardinal, quadrant, loop-order, or identity failure is present."
+}

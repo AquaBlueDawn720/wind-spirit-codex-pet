@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15539,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 433
+        },
+        {
+          "index": 1,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15375,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 424
+        },
+        {
+          "index": 2,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15519,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 426
+        },
+        {
+          "index": 3,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15487,
+          "bbox": [
+            31,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 406
+        },
+        {
+          "index": 4,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15526,
+          "bbox": [
+            31,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 439
+        },
+        {
+          "index": 5,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15532,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 434
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15007,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 456
+        },
+        {
+          "index": 1,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15251,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 480
+        },
+        {
+          "index": 2,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14644,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 453
+        },
+        {
+          "index": 3,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15361,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 443
+        },
+        {
+          "index": 4,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15000,
+          "bbox": [
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 465
+        },
+        {
+          "index": 5,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15614,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 500
+        },
+        {
+          "index": 6,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14120,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 397
+        },
+        {
+          "index": 7,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14452,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 429
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13689,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 422
+        },
+        {
+          "index": 1,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15637,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 487
+        },
+        {
+          "index": 2,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15165,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 522
+        },
+        {
+          "index": 3,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14925,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 470
+        },
+        {
+          "index": 4,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14167,
+          "bbox": [
+            5,
+            15,
+            187,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 440
+        },
+        {
+          "index": 5,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15152,
+          "bbox": [
+            10,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 463
+        },
+        {
+          "index": 6,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15798,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 500
+        },
+        {
+          "index": 7,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15365,
+          "bbox": [
+            6,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 480
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15518,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 235
+        },
+        {
+          "index": 1,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15937,
+          "bbox": [
+            18,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 238
+        },
+        {
+          "index": 2,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16180,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 280
+        },
+        {
+          "index": 3,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15042,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 245
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18605,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 540
+        },
+        {
+          "index": 1,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16450,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 513
+        },
+        {
+          "index": 2,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16362,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 513
+        },
+        {
+          "index": 3,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16609,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 512
+        },
+        {
+          "index": 4,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18676,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 507
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15207,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 400
+        },
+        {
+          "index": 1,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16191,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 448
+        },
+        {
+          "index": 2,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18627,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 566
+        },
+        {
+          "index": 3,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21300,
+          "bbox": [
+            7,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 646
+        },
+        {
+          "index": 4,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12764,
+          "bbox": [
+            5,
+            50,
+            187,
+            158
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 357
+        },
+        {
+          "index": 5,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19081,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 578
+        },
+        {
+          "index": 6,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16494,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 503
+        },
+        {
+          "index": 7,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15511,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 470
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16339,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 417
+        },
+        {
+          "index": 1,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16129,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 393
+        },
+        {
+          "index": 2,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16004,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 408
+        },
+        {
+          "index": 3,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15932,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 424
+        },
+        {
+          "index": 4,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15808,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 424
+        },
+        {
+          "index": 5,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15951,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 395
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15244,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 322
+        },
+        {
+          "index": 1,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15351,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 336
+        },
+        {
+          "index": 2,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16822,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 385
+        },
+        {
+          "index": 3,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15408,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 323
+        },
+        {
+          "index": 4,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15106,
+          "bbox": [
+            31,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 326
+        },
+        {
+          "index": 5,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15431,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 317
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15036,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 390
+        },
+        {
+          "index": 1,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15240,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 375
+        },
+        {
+          "index": 2,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14852,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 381
+        },
+        {
+          "index": 3,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15238,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 364
+        },
+        {
+          "index": 4,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15141,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 359
+        },
+        {
+          "index": 5,
+          "file": "work\\hatch-pet\\wind-spirit-one-wing\\frames-one-wing\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14800,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 403
+        }
+      ]
+    }
+  ]
+}

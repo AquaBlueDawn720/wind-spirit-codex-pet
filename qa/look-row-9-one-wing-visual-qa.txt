@@ -1,0 +1,3 @@
+visual_qa=pass
+qa_note=The eight frames progress continuously from 000 up through the up-right intermediates, readable 090 right, then the down-right intermediates. Visor and eye placement advances without reversal, feet share the same baseline, body scale is stable, and every frame has exactly one three-white-feather upper wing on image-left with no image-right wing or stump, arms, hands, clipping, effects, or text.
+repair=none

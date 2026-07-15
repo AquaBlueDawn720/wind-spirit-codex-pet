@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "revision": "one-image-left-wing-no-hands",
+  "created_at": "2026-07-13T00:55:00Z",
+  "contract": "qa/one-wing-contract.md",
+  "jobs": [
+    {
+      "id": "base",
+      "status": "complete",
+      "output": "decoded/base.png",
+      "source": "[redacted-private-source]"
+    },
+    {
+      "id": "idle",
+      "status": "complete",
+      "output": "decoded/idle.png",
+      "source": "[redacted-private-source]"
+    },
+    {"id": "running-right", "status": "complete", "output": "decoded/running-right.png", "source": "[redacted-private-source]"},
+    {"id": "running-left", "status": "complete", "output": "decoded/running-left.png", "source": "qa/candidates/running-left-one-wing-retry2-repaired.png"},
+    {"id": "waving", "status": "complete", "output": "decoded/waving.png", "source": "[redacted-private-source]"},
+    {"id": "jumping", "status": "complete", "output": "decoded/jumping.png", "source": "[redacted-private-source]"},
+    {"id": "failed", "status": "complete", "output": "decoded/failed.png", "source": "[redacted-private-source]"},
+    {"id": "waiting", "status": "complete", "output": "decoded/waiting.png", "source": "qa/candidates/waiting-one-wing.png"},
+    {"id": "running", "status": "complete", "output": "decoded/running.png", "source": "[redacted-private-source]"},
+    {"id": "review", "status": "complete", "output": "decoded/review.png", "source": "[redacted-private-source]"},
+    {"id": "look-cardinals", "status": "complete", "output": "decoded/look-cardinals.png", "source": "[redacted-private-source]"},
+    {"id": "look-row-9", "status": "complete", "output": "decoded/look-row-9.png", "source": "[redacted-private-source]", "registered": "qa/look-row-9-one-wing-registered.png", "registration": "qa/look-row-9-one-wing-registration.json"},
+    {"id": "look-row-10", "status": "complete", "output": "decoded/look-row-10.png", "source": "[redacted-private-source]", "prepared": "qa/candidates/look-row-10-one-wing-scale-repaired.png", "scale_repair": 1.25}
+  ]
+}

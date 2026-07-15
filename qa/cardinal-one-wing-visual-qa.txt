@@ -1,0 +1,3 @@
+visual_qa=pass
+qa_note=000 has both eyes high in the centered visor, 090 has the visor and eyes on screen-right, 180 has both eyes low in the centered visor, and 270 has the visor and eye on screen-left. Every pose has exactly one upper three-white-feather wing on image-left and none on image-right; no arms, hands, extra tuft, clipping, overlap, effects, or text are present.
+repair=none

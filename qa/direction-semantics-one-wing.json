@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "identity_contract": {
+    "image_left_three_feather_wing_only": true,
+    "image_right_wing_absent": true,
+    "arms_and_hands_absent": true
+  },
+  "directions": [
+    {"direction":"000","verdict":"pass","expected":"up","observed":"both white eyes sit high in the centered visor","reason":"clear vertical-up cue; single three-feather wing remains on image left"},
+    {"direction":"022.5","verdict":"pass","expected":"up-right","observed":"eyes remain high while visor begins shifting toward screen-right","reason":"upper and right components are both readable"},
+    {"direction":"045","verdict":"pass","expected":"up-right","observed":"visor and eyes occupy the upper screen-right quadrant","reason":"both axes are clear and advance clockwise"},
+    {"direction":"067.5","verdict":"pass","expected":"up-right","observed":"strong screen-right yaw with eyes still raised","reason":"near-cardinal right pose retains a visible upward component"},
+    {"direction":"090","verdict":"pass","expected":"right","observed":"visor and eyes are unmistakably on the screen-right side of the hood","reason":"hard right cardinal gate passes"},
+    {"direction":"112.5","verdict":"pass","expected":"down-right","observed":"screen-right yaw continues while eyes move lower","reason":"right and down components are both readable"},
+    {"direction":"135","verdict":"pass","expected":"down-right","observed":"visor and eyes occupy the lower screen-right quadrant","reason":"ordered loop continues without reversal"},
+    {"direction":"157.5","verdict":"pass","expected":"down-right","observed":"near-down pose retains a screen-right component","reason":"bridges coherently into 180 down"},
+    {"direction":"180","verdict":"pass","expected":"down","observed":"both eyes sit low in the centered visor and the hood nods down","reason":"hard down cardinal gate passes"},
+    {"direction":"202.5","verdict":"pass","expected":"down-left","observed":"low eyes and visor shift toward screen-left","reason":"left and down components are both readable"},
+    {"direction":"225","verdict":"pass","expected":"down-left","observed":"visor and eyes occupy the lower screen-left quadrant","reason":"ordered loop advances smoothly toward left"},
+    {"direction":"247.5","verdict":"pass","expected":"down-left","observed":"strong screen-left yaw with eyes still lowered","reason":"near-cardinal left pose retains a visible downward component"},
+    {"direction":"270","verdict":"pass","expected":"left","observed":"visor and eyes are unmistakably on the screen-left side of the hood","reason":"hard left cardinal gate passes"},
+    {"direction":"292.5","verdict":"pass","expected":"up-left","observed":"screen-left yaw continues while eyes rise","reason":"left and up components are both readable"},
+    {"direction":"315","verdict":"pass","expected":"up-left","observed":"visor and eyes occupy the upper screen-left quadrant","reason":"ordered loop continues without reversal"},
+    {"direction":"337.5","verdict":"warning","expected":"up-left","observed":"near-up pose has an unmistakable up component and a subtle screen-left visor cue","reason":"blind majority marked the horizontal component ambiguous; labeled normal-size review confirms the intended quadrant and a coherent 315→337.5→000 transition without reversal"}
+  ]
+}

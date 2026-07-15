@@ -1,0 +1,6 @@
+visual_qa=pass
+qa_note=All 11 rows have exact counts and correct semantics, stable scale and baselines, clean unclipped transparency, and the required single viewer-left three-feather wing with no right wing, stump, arms, hands, text, or stray effects.
+direction_semantics=16/16 accepted, with coherent loop, cardinals and quadrants; waving is performed only by the left wing.
+review_warnings=337.5 horizontal cue ambiguous in blind review, accepted as minor after labeled loop review.
+repair_rows=none
+repair_notes=none
